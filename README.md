@@ -1,6 +1,7 @@
 # GTD-Getting-Things-Done
 GTD is a minimalistic and efficient task management app designed to help users capture, organize, and execute tasks seamlessly. Built with Swift, allowing for a fluid workflow without clutter.
-Planned Features
+
+PLANNED FEATURES
 
 1. Calendar View & Deadlines
 • Soft & Hard Deadlines: Each task can have two deadlines – a “soft” (reminder) and a “hard” (final) date. This will help users prioritize their tasks based on urgency.
